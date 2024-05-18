@@ -1,8 +1,9 @@
 const INFO = {
 	main: {
 		title: "Web Dev - Woodrow Reese",
-		name: "Woodrow Reese.",
+		name: "Woodrow Reese",
 		email: "woodrow7reese@gmail.com",
+		number: "(978) 241-5709",
 		logo: "../logo.png",
 	},
 
@@ -14,7 +15,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack Web Developer",
 		description:
-			"I am a web developer with an extensive practice using MongoDB, Express.js, React, and Node.js. I have delivered solutions for 20 clients with pre-existing codebases using technologies such as the MERN stack, Java Spring, Shopify, Excel, SQL, and Wordpress. Passionate about developing applications, delivering top-notch solutions and growing my skillset in the process. I am always searching for fresh opportunites and contributing to impactful projects!",
+			"I am a web developer with an extensive practice using MongoDB, Express.js, React, and Node.js. I have delivered solutions for 15 clients with pre-existing codebases using technologies such as the MERN stack, Java Spring, Shopify, Excel, SQL, and Wordpress. Passionate about developing applications, delivering top-notch solutions and growing my skillset in the process. I am always searching for fresh opportunites and contributing to impactful projects!",
 	},
 
 	about: {
