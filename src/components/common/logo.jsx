@@ -11,11 +11,11 @@ const Logo = (props) => {
 	}
 
 	const imageElement = (
-		<img src={INFO.main.logo} 
+		<img 
+			src={`${process.env.PUBLIC_URL}/logo.png`} //{INFO.main.logo}
 			alt="logo" 
 			className="block rounded-[50%] m-0 p-0" 
 			width={width} 
-
 		/>
 	);
 

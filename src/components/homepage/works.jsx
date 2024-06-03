@@ -15,8 +15,8 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./phone.png"
-								alt="twitter"
+								src={`${process.env.PUBLIC_URL}/phone.png`} //"./phone.png"
+								alt=""
 								className="work-image"
 							/>
 							<div className="work-title">Reese Phone Repair</div>
@@ -28,8 +28,8 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="./ajs.png"
-								alt="AJs"
+								src={`${process.env.PUBLIC_URL}/ajs.png`}//"./ajs.png"
+								alt=""
 								className="work-image"
 							/>
 							<div className="work-title">Aroma Joe's</div>

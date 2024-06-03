@@ -1,10 +1,11 @@
 {
-	"name": "mySite",
+	"name": "mysite",
 	"version": "1.1.0",
+	"homepage": "https://woooocoder.github.io/mySite",
 	"author": {
 		"name": "Woodrow Reese",
 		"email": "woodrow7reese@gmail.com",
-		"url": "https://woooocoder.github.io/mySite/"
+		"url": "https://woooocoder.github.io/mySite"
 	},
 	"private": true,
 	"dependencies": {

@@ -34,7 +34,7 @@ const Resume = () => {
 						<Logo width={46} />
 					</div>
 
-					<div className="title mt-12">
+					<div className="title my-12">
 						View and download my resume
 					</div>
 
@@ -214,6 +214,10 @@ const Resume = () => {
 
 								<li>
 									CS410 - Software Engineering
+								</li>
+
+								<li>
+									CS446 - Internetworking
 								</li>
 							</ul>
 						</div>
